@@ -1,0 +1,2 @@
+
+WiseId = int | str
