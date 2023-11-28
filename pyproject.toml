@@ -11,6 +11,10 @@ ujson = "^5.8.0"
 yarl = "^1.9.3"
 aiohttp = "^3.9.1"
 backoff = "^2.2.1"
+python-dotenv = "^1.0.0"
+fastapi = "^0.104.1"
+uvicorn = "^0.24.0.post1"
+gunicorn = "^21.2.0"
 
 
 [build-system]
