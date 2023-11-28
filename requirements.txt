@@ -1,0 +1,8 @@
+ujson
+yarl
+aiohttp
+backoff
+python-dotenv
+fastapi
+uvicorn
+gunicorn
